@@ -1,5 +1,5 @@
 import Image from "next/image";
-import styles from "./singlePost.module.css";
+import styles from './singlepost.module.css'
 import Postuser from "@/components/postuser/Postuser";
 import { getPost } from "@/lib/data";
 import { Suspense } from 'react';
